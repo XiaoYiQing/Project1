@@ -3,3 +3,6 @@ Branch 2 only file, for now
 Branch 3 first commit change
 
 Weird
+
+Trying to understand pulling.  Hope pulling will update the master
+branch in this commit.
